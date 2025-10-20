@@ -219,7 +219,7 @@ streamlit run streamlit_app.py
 
 ## 👨‍💻 Author
 
-**Harshavardhan Nadiveedi**
+**Harshavardhan Nadiveedi and Niharika Peravali**
 🎓 B.Tech — Artificial Intelligence & Machine Learning
 💡 Interests: Data Science, Machine Learning, Artificial Intelligence
 
