@@ -6,7 +6,6 @@
 This project aims to **predict the likelihood of heart disease** in patients based on clinical data such as age, cholesterol, blood pressure, and ECG results.  
 It applies multiple **Machine Learning algorithms** — Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, and KNN — to build, compare, and select the best model for prediction.  
 Finally, the project deploys the best-performing model using **Streamlit** to make real-time predictions.
-
 ---
 
 ## 🎯 Objective
