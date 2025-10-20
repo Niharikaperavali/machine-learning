@@ -147,10 +147,10 @@ heart-disease-prediction/
 
 | Model | Accuracy | F1 Score | ROC AUC |
 |--------|-----------|-----------|-----------|
-| **XGBoost (Tuned)** | **0.93** | **0.92** | **0.95** |
-| Random Forest (Tuned) | 0.91 | 0.90 | 0.93 |
-| SVM (Tuned) | 0.88 | 0.87 | 0.90 |
-| Decision Tree (Tuned) | 0.86 | 0.85 | 0.88 |
+| **XGBoost (Tuned)** | **1.00** | **1.00** | **1.00** |
+| Random Forest (Tuned) | 1.00 | 1.00 | 1.00 |
+| SVM (Tuned) | 0.99 | 0.99 | 0.99 |
+| Decision Tree (Tuned) | 0.98 | 0.98 | 0.98 |
 
 ✅ **Final Model Selected:** Tuned **XGBoost Pipeline** — highest ROC AUC and F1 performance.
 
@@ -223,13 +223,4 @@ streamlit run streamlit_app.py
 🎓 B.Tech — Artificial Intelligence & Machine Learning
 💡 Interests: Data Science, Machine Learning, Artificial Intelligence
 
-## ⚙️ **Steps to Add and Preview in VS Code**
-
-1. In your project root folder:
-   - Right-click → **New File** → name it `README.md`
-2. Paste the above content inside it.
-3. Save the file (`Ctrl + S`).
-4. To preview in Markdown view:
-   - Press **Ctrl + Shift + V** (Windows/Linux)
-   - Or **Cmd + Shift + V** (Mac)
 
