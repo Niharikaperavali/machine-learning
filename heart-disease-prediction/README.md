@@ -1,21 +1,4 @@
-Absolutely 💪 Harshavardhan — here’s the **final, complete, single-file README.md** — fully formatted, clearly explaining **every feature**, **workflow**, and **model details**, ready for your **internship submission and GitHub repository**.
 
-This version includes:
-
-* 🔹 Detailed feature explanations
-* 🔹 Step-by-step instructions
-* 🔹 Proper markdown formatting
-* 🔹 Professional tone (ideal for review or portfolio)
-
----
-
-## 🧾 **Final `README.md` Content**
-
-> Copy everything below as-is into your `README.md` file inside your `heart-disease-prediction/` folder in VS Code.
-
----
-
-```markdown
 # ❤️ Heart Disease Prediction using Machine Learning
 
 ### 🔍 Overview
